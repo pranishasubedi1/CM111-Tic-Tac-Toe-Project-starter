@@ -6,8 +6,8 @@ You will need to meet 6 checkpoints for this project before you can develop your
 
 Here are the checkpoint due dates for the project and very brief descriptions of the tasks:
 
-1. Drawing the board: 8/29
-2. Tracking moves with variables: 9/5
+1. Drawing the board: 9/4
+2. Tracking moves with variables: 9/6
 3. User initialization of board state: 9/12
 4. Allow users to make a move: 9/26
 5. Determine a winner: 10/3
