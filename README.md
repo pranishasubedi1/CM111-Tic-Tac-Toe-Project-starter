@@ -27,5 +27,5 @@ Write some print statements in your main method that use spaces, |, and - symbol
 
 When your code is passing the unit tests, make a commit with the comment "Checkpoint #1 Complete". 
 
-**Due: 8/29**
+**Due: 9/04**
 
