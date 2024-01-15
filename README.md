@@ -15,7 +15,7 @@ Here are the checkpoint due dates for the project and very brief descriptions of
 5. Determine a winner: (early: on or before 6pm 2/16, late: after 6pm 2/23)
 6. Take turns making moves: (early: on or before 6pm 2/23, late: after 6pm 3/1)
 
-Checkpoints will not be graded after 6PM on 3/24 and your last commit before this deadline will be used for the purposes of determining the final project grade. Additional instructions for your final commit will be posted after you pass checkpoint #6.
+Checkpoints will not be graded after 6PM on 3/22 and your last commit before this deadline will be used for the purposes of determining the final project grade. Additional instructions for your final commit will be posted after you pass checkpoint #6.
 
 ## Checkpoint #1 Instructions
 
@@ -29,5 +29,5 @@ Write some print statements in your main method that use spaces, |, and - symbol
 
 When your code is passing the unit tests, make a commit with the comment "Checkpoint #1 Complete". 
 
-**Due dates: early on or before 6pm 1/19, late after 6pm 1/26, no credit after 6PM on 3/24**
+**Due dates: early on or before 6pm 1/19, late after 6pm 1/26, no credit after 6PM on 3/22**
 
